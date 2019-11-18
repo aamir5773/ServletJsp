@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>HttpBasic</display-name>
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+  
+   <!-- Tell the server to use form-based authentication. -->
+  <login-config>
+    <auth-method>BASIC</auth-method>
+	<realm-name>Basic Security Check</realm-name>
+  </login-config>
+  
+  <!-- Protect everything within the "investing" directory. -->
+  <security-constraint>
+    <web-resource-collection>
+      <web-resource-name>Investing</web-resource-name>
+      <url-pattern>/investing/*</url-pattern>
+    </web-resource-collection>
+    <auth-constraint>
+      <role-name>registered-user</role-name>
+      <role-name>administrator</role-name>
+    </auth-constraint>
+  </security-constraint>
+  
+   <!--  The security roles used in this app. -->
+  <security-role>
+    <role-name>registered-user</role-name>
+  </security-role>  
+  <security-role>
+    <role-name>administrator</role-name>
+  </security-role>
+</web-app>

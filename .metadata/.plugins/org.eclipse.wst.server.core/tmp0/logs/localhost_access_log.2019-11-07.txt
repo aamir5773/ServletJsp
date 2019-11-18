@@ -1,0 +1,14 @@
+127.0.0.1 - - [07/Nov/2019:14:23:31 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:14:23:32 +0530] "GET /UserManagement/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:14:23:32 +0530] "GET /UserManagement/css/LoginForm.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:14:23:32 +0530] "GET /UserManagement/js/LoginForm.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:14:23:35 +0530] "POST /UserManagement/login.do HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:14:23:36 +0530] "GET /UserManagement/Home.jsp HTTP/1.1" 200 304
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:14:23:39 +0530] "GET /UserManagement/showUsers.view HTTP/1.1" 200 33679
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:14:23:41 +0530] "GET /UserManagement/UpdateUser.jsp?username=Aamir_Dhanani&firstname=Aamir&lastname=Dhanani&mobilenumber=9876443210 HTTP/1.1" 200 1044
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:14:23:41 +0530] "GET /UserManagement/js/AddForm.js HTTP/1.1" 200 1210
+127.0.0.1 - - [07/Nov/2019:14:28:33 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:14:28:37 +0530] "POST /UserManagement/login.do HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:14:28:37 +0530] "GET /UserManagement/Home.jsp HTTP/1.1" 200 304
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:14:28:38 +0530] "GET /UserManagement/showUsers.view HTTP/1.1" 200 33679
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:14:28:39 +0530] "GET /UserManagement/UpdateUser.jsp?username=Aamir_Dhanani&firstname=Aamir&lastname=Dhanani&mobilenumber=9876443210 HTTP/1.1" 200 1044

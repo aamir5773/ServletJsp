@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>CourseCaseStudy</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <servlet-name>Search</servlet-name>
+    <servlet-class>com.lti.servlets.Search</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Search</servlet-name>
+    <url-pattern>/search.view</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>HomeServlet1</display-name>
+    <servlet-name>HomeServlet1</servlet-name>
+    <servlet-class>com.lti.servlet.HomeServlet1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>HomeServlet1</servlet-name>
+    <url-pattern>/HomeServlet1</url-pattern>
+  </servlet-mapping>
+</web-app>

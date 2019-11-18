@@ -1,0 +1,13 @@
+package com.lti.model;
+
+public class College {
+	private int cid;
+	private String cname;
+	private String ctype;
+	private String city;
+	private int fees;
+	private int pin;
+	
+}
+
+

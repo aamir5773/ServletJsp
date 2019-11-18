@@ -1,0 +1,10 @@
+package com.lti.model;
+
+public class College {
+	private int cid;
+	private String password;
+	private String firstname;
+	private String lastname;
+	private String mobilenumber;
+}
+

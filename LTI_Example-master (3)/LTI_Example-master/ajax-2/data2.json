@@ -1,0 +1,43 @@
+[   {
+    "name":"The Bougainvillea 1 & 2",
+    "description":"A set of cosy twin rooms side by side, each with its own entrance. Bougainvillea 1 and Bougainvillea 2 share the same nicely shaded terrace due to the mature Bougainvillea that grows on the outside of the Marbella Guesthouse. Both rooms are spacious and comfortable with TV, air conditioning and en-suites. The Marbella is a very popular guest house and we recommend that you book well in advance if you wish to stay during high season. The High Season starts in December and ends in April.",
+    "cost":{"weekend":"Rs. 7800/-", "weekday":"Rs. 2800/-"},
+    "details":["Beautiful Room", "Beautiful Bathrooms","Air Conditioning","Tata Sky TV"],
+    "photo":"images/bougainvillea.jpg"
+    },
+    {
+    "name":"The Bougainvillea 1 & 2",
+    "description":"A set of cosy twin rooms side by side, each with its own entrance. Bougainvillea 1 and Bougainvillea 2 share the same nicely shaded terrace due to the mature Bougainvillea that grows on the outside of the Marbella Guesthouse. Both rooms are spacious and comfortable with TV, air conditioning and en-suites. The Marbella is a very popular guest house and we recommend that you book well in advance if you wish to stay during high season. The High Season starts in December and ends in April.",
+    "cost":{"weekend":"Rs. 7800/-", "weekday":"Rs. 2800/-"},
+    "details":["Beautiful Room", "Beautiful Bathrooms","Air Conditioning","Tata Sky TV"],
+    "photo":"images/bougainvillea.jpg"
+    },
+    {
+    "name":"The Garden Room",
+    "description":"The Garden Room is a beautifully furnished double room on the upper floor, with a view over the lush tropical garden. This superb Garden room is fitted with en-suite bathroom and shower, and comes complete with a very comfortable sitting area and cable TV. The room looks out onto the splendid garden and views of the surrounding area of open hills and palms trees. The Marbella is a very popular guest house and we recommend that you book well in advance if you wish to stay during high season. High season starts in December and ends in April.",
+    "cost":{"weekend":"Rs. 7800/-", "weekday":"Rs. 3000/-"},
+    "details":["Beautiful Room", "Beautiful Bathrooms","Air Conditioning","Tata Sky TV","King Sized Bed"],
+    "photo":"images/garden.jpg"
+    },
+    {
+    "name":"The Moghul Suite",
+    "description":"The Moghul Suite is a spacious split level room with a classical flair, situated on the ground floor opening out to the courtyard. This superb suite is fitted with a comfortable sitting area, en-suite bathroom and shower. The bedroom is air conditioned and has cable TV. The Marbella is a very popular guest house and we recommend that you book well in advance if you wish to stay during high season. High season starts in December and ends in April.",
+    "cost":{"weekend":"Rs. 9100/-", "weekday":"Rs. 3300/-"},
+    "details":["Beautiful Room", "Beautiful Bathrooms","Air Conditioning","Tata Sky TV","King Sized Bed","Complimentary Sun Screen"],
+    "photo":"images/moghul.jpg"
+    }, 
+    {
+    "name":"The Rajasthani Suite",
+    "description":"If its space you look for when you are away than look no further because the Rajasthani Suite has ample. A spacious split level room with a definite Indian flair, attached is a royal bathroom with a large size sunken bath, ideal to relax after a hard day on the beach. The bedroom has air conditioning, cable TV and is separated from the living area by a platform and panelled screens. The suite is very cool due to the high ceiling and the tiled flooring made from Portuguese stencils, with a private terrace provides for a shady place for rest.",
+    "cost":{"weekend":"Rs. 9800/-", "weekday":"Rs. 3600/-"},
+    "details":["Beautiful Room", "Beautiful Bathrooms","Air Conditioning","Tata Sky TV","King Sized Bed","Complimentary Sun Screen"],
+    "photo":"images/rajasthani.jpg"
+    },
+    {
+    "name":"The Penthouse Suite",
+    "description":"The Penthouse Suite is undoutbly the best suite in the house, you will instantly feel at home and relax into the slow pace you have come away for. The suite consists of a large living room, small dinning room, large bedroom with en-suite bathroom and shower and a large sunny terrace ideally suited for sun bathing with a great view overlooking the lush greenery. The comfortable bedroom has a double bed, air conditioning, TV with cable network to keep you updated on current affairs.As you can see from the pictures below, the penthouse is very spacious; the high ceilings and marble floors helps to keep this suite cool. The large terrace adjoining the penthouse is the perfect place to enjoy views of open hills.",
+    "cost":{"weekend":"Rs. 11400/-", "weekday":"Rs. 3800/-"},
+    "details":["Beautiful Room", "Beautiful Bathrooms","Air Conditioning","Tata Sky TV","King Sized Bed","Complimentary Sun Screen"],
+    "photo":"images/penthouse.jpg"
+    }
+]
